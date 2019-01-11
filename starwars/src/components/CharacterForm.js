@@ -1,9 +1,10 @@
 import React from "react";
+import "./StarWars.css";
 
 const CharForm = (props)=>{
     return (
     <div className="characterProperties">
-        <div>Name:{props.characterProps.name}</div>
+        <h2 className="name">Name:{props.characterProps.name}</h2>
         <div>Year Born:{props.characterProps.birth_year}</div>
         <div>Gender:{props.characterProps.gender}</div>
         <div>Hair Color:{props.characterProps.hair_color}</div>
