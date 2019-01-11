@@ -1,9 +1,10 @@
 .characterProperties{
     width: 100%;
-    font-size: 25px;
+    font-size: 35px;
     display: flex;
     align-items: center;
     flex-direction: column;
+    justify-content: space-around;
     color:rgba(250, 244, 244, 0.938);
     font:bold;
     border: 2px solid black;
@@ -11,7 +12,7 @@
 }
 
 .name{
-    text-decoration: underline;
-    
+    text-decoration:  underline black;
+    color: rgb(149, 199, 223);
 }
 
