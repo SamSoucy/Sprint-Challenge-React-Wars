@@ -18,4 +18,6 @@ Ans. Class/Stateful components is a JavaScript class. It extends                
 
 Ans. State is data. State allows React components to change output over time      in response to events. State belongs to a single component.
 
-1.  Describe props.
+5.  Describe props.
+
+Ans. Props are used to customize components and give it different                 parameters. Props can be passed down from parent components to child         components.
