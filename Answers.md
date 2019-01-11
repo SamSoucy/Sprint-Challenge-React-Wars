@@ -6,7 +6,9 @@ Ans. React is a JS library for UI. You can create reusable components within    
 	   Apps with state that changes a lot will benefit from React JS.
 
 
-1.  What does it mean to _think_ in react?
+2.  What does it mean to _think_ in react?
+
+Ans. To think in react, means to break down and think about the UI in parts       or components. Then using that breakdown, props and state to build your      App.
 
 1.  Briefly describe some of the differences between a Class/Stateful component and a Functional/Presentational component.
 
