@@ -10,7 +10,9 @@ Ans. React is a JS library for UI. You can create reusable components within    
 
 Ans. To think in react, means to break down and think about the UI in parts       or components. Then using that breakdown, props and state to build your      App.
 
-1.  Briefly describe some of the differences between a Class/Stateful component and a Functional/Presentational component.
+3.  Briefly describe some of the differences between a Class/Stateful            component and a Functional/Presentational component.
+
+Ans. Class/Stateful components is a JavaScript class. It extends                  React.Components and has only has one required method whitch is render.      With Class/Stateful components you get internal state, performance           increases,and lifecycle hooks. A functional component is a javaScript        function that accepts props as it argument and returns JSX. They are         much simpler then Class/Stateful components.
 
 1.  Describe state.
 
