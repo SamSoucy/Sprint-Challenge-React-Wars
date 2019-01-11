@@ -14,6 +14,8 @@ Ans. To think in react, means to break down and think about the UI in parts     
 
 Ans. Class/Stateful components is a JavaScript class. It extends                  React.Components and has only has one required method whitch is render.      With Class/Stateful components you get internal state, performance           increases,and lifecycle hooks. A functional component is a javaScript        function that accepts props as it argument and returns JSX. They are         much simpler then Class/Stateful components.
 
-1.  Describe state.
+4.  Describe state.
+
+Ans. State is data. State allows React components to change output over time      in response to events. State belongs to a single component.
 
 1.  Describe props.
